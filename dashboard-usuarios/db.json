@@ -2,403 +2,453 @@
     "peoples": [
         {
             "id": 1,
-            "firstname": "Lara",
-            "lastname": "Moraes",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/52.jpg",
-            "address": "9045 Avenida Santos",
-            "email": "lara_moraes70@yahoo.com"
+            "firstname": "Daniel",
+            "lastname": "Braga",
+            "avatar": "https://avatars.githubusercontent.com/u/29375450",
+            "address": "868 Avenida Braga",
+            "email": "daniel.braga@live.com",
+            "cetaceo": "Short-Beaked Common Dolphin"
         },
         {
             "id": 2,
-            "firstname": "Rafael",
-            "lastname": "Batista",
-            "avatar": "https://avatars.githubusercontent.com/u/41019293",
-            "address": "26207 Avenida Macedo",
-            "email": "rafael_batista@bol.com.br"
+            "firstname": "Nataniel",
+            "lastname": "Carvalho",
+            "avatar": "https://avatars.githubusercontent.com/u/80308038",
+            "address": "40659 Rua Nogueira",
+            "email": "nataniel.carvalho32@live.com",
+            "cetaceo": "Hourglass Dolphin"
         },
         {
             "id": 3,
-            "firstname": "Maria Júlia",
-            "lastname": "Franco",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/15.jpg",
-            "address": "210 Rodovia Saraiva",
-            "email": "mariajulia.franco14@gmail.com"
+            "firstname": "Davi",
+            "lastname": "Macedo",
+            "avatar": "https://avatars.githubusercontent.com/u/3145108",
+            "address": "41482 Rodovia Macedo",
+            "email": "davi_macedo35@live.com",
+            "cetaceo": "Guiana Dolphin"
         },
         {
             "id": 4,
-            "firstname": "Ana Laura",
-            "lastname": "Silva",
-            "avatar": "https://avatars.githubusercontent.com/u/51799682",
-            "address": "302 Travessa Melissa",
-            "email": "analaura_silva@yahoo.com"
+            "firstname": "Alessandro",
+            "lastname": "Macedo",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/24.jpg",
+            "address": "97335 Rua Silva",
+            "email": "alessandro_macedo@yahoo.com",
+            "cetaceo": "Pacific White-Sided Dolphin"
         },
         {
             "id": 5,
-            "firstname": "Danilo",
-            "lastname": "Martins",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/87.jpg",
-            "address": "63191 Alameda Reis",
-            "email": "danilo.martins89@bol.com.br"
+            "firstname": "Warley",
+            "lastname": "Santos",
+            "avatar": "https://avatars.githubusercontent.com/u/17621630",
+            "address": "452 Rodovia Moraes",
+            "email": "warley_santos96@yahoo.com",
+            "cetaceo": "Chinese River Dolphin"
         },
         {
             "id": 6,
-            "firstname": "Pedro",
-            "lastname": "Pereira",
-            "avatar": "https://avatars.githubusercontent.com/u/34793243",
-            "address": "43853 Avenida Souza",
-            "email": "pedro.pereira97@yahoo.com"
+            "firstname": "Davi Lucca",
+            "lastname": "Saraiva",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/12.jpg",
+            "address": "7549 Rodovia Carvalho",
+            "email": "davilucca_saraiva@gmail.com",
+            "cetaceo": "Long-Beaked Common Dolphin"
         },
         {
             "id": 7,
-            "firstname": "Maria Helena",
-            "lastname": "Barros",
-            "avatar": "https://avatars.githubusercontent.com/u/33669165",
-            "address": "2004 Avenida Norberto",
-            "email": "mariahelena.barros@hotmail.com"
+            "firstname": "Paulo",
+            "lastname": "Santos",
+            "avatar": "https://avatars.githubusercontent.com/u/19278312",
+            "address": "6112 Alameda Barros",
+            "email": "paulo_santos@bol.com.br",
+            "cetaceo": "Fraser’s Dolphin"
         },
         {
             "id": 8,
-            "firstname": "Isaac",
-            "lastname": "Saraiva",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/40.jpg",
-            "address": "793 Rua Elísio",
-            "email": "isaac.saraiva67@gmail.com"
+            "firstname": "Lorraine",
+            "lastname": "Braga",
+            "avatar": "https://avatars.githubusercontent.com/u/29883872",
+            "address": "460 Rua Paulo",
+            "email": "lorraine_braga76@yahoo.com",
+            "cetaceo": "Dusky Dolphin"
         },
         {
             "id": 9,
-            "firstname": "João Pedro",
-            "lastname": "Santos",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/31.jpg",
-            "address": "32314 Rodovia Felipe",
-            "email": "joaopedro_santos@bol.com.br"
+            "firstname": "Samuel",
+            "lastname": "Oliveira",
+            "avatar": "https://avatars.githubusercontent.com/u/62808072",
+            "address": "954 Alameda Isis",
+            "email": "samuel.oliveira@yahoo.com",
+            "cetaceo": "Short-Beaked Common Dolphin"
         },
         {
             "id": 10,
-            "firstname": "Suélen",
-            "lastname": "Martins",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/95.jpg",
-            "address": "164 Avenida Albuquerque",
-            "email": "suelen.martins@yahoo.com"
+            "firstname": "Alessandro",
+            "lastname": "Moreira",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/76.jpg",
+            "address": "709 Rodovia Daniel",
+            "email": "alessandro.moreira@gmail.com",
+            "cetaceo": "Pygmy Killer Whale"
         },
         {
             "id": 11,
-            "firstname": "Roberta",
-            "lastname": "Silva",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/38.jpg",
-            "address": "4173 Travessa Ofélia",
-            "email": "roberta.silva7@gmail.com"
+            "firstname": "Morgana",
+            "lastname": "Melo",
+            "avatar": "https://avatars.githubusercontent.com/u/879078",
+            "address": "9916 Alameda Marli",
+            "email": "morgana_melo@yahoo.com",
+            "cetaceo": "Chinese River Dolphin"
         },
         {
             "id": 12,
-            "firstname": "Leonardo",
-            "lastname": "Macedo",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/5.jpg",
-            "address": "338 Travessa Eduardo",
-            "email": "leonardo.macedo27@yahoo.com"
+            "firstname": "Hugo",
+            "lastname": "Braga",
+            "avatar": "https://avatars.githubusercontent.com/u/73526531",
+            "address": "799 Avenida Pedro",
+            "email": "hugo.braga@gmail.com",
+            "cetaceo": "Atlantic Spotted Dolphin"
         },
         {
             "id": 13,
-            "firstname": "João",
-            "lastname": "Moraes",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/23.jpg",
-            "address": "37636 Travessa Karla",
-            "email": "joao_moraes@live.com"
+            "firstname": "Ricardo",
+            "lastname": "Souza",
+            "avatar": "https://avatars.githubusercontent.com/u/92275481",
+            "address": "9309 Rodovia Macedo",
+            "email": "ricardo_souza@yahoo.com",
+            "cetaceo": "Chinese River Dolphin"
         },
         {
             "id": 14,
-            "firstname": "Yago",
-            "lastname": "Moraes",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/11.jpg",
-            "address": "2565 Avenida Dalila",
-            "email": "yago_moraes97@live.com"
+            "firstname": "Carla",
+            "lastname": "Batista",
+            "avatar": "https://avatars.githubusercontent.com/u/39185744",
+            "address": "3072 Travessa Moreira",
+            "email": "carla.batista@hotmail.com",
+            "cetaceo": "Sperm Whale"
         },
         {
             "id": 15,
-            "firstname": "Ladislau",
-            "lastname": "Saraiva",
-            "avatar": "https://avatars.githubusercontent.com/u/65388729",
-            "address": "6889 Marginal Pereira",
-            "email": "ladislau_saraiva@hotmail.com"
+            "firstname": "Isaac",
+            "lastname": "Silva",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/68.jpg",
+            "address": "55924 Rua Guilherme",
+            "email": "isaac.silva0@live.com",
+            "cetaceo": "Burrunan Dolphin"
         },
         {
             "id": 16,
-            "firstname": "Nicolas",
-            "lastname": "Pereira",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/20.jpg",
-            "address": "18202 Alameda Daniel",
-            "email": "nicolas.pereira@live.com"
+            "firstname": "Ígor",
+            "lastname": "Braga",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/90.jpg",
+            "address": "4613 Alameda Liz",
+            "email": "igor.braga57@hotmail.com",
+            "cetaceo": "Sperm Whale"
         },
         {
             "id": 17,
-            "firstname": "Davi",
-            "lastname": "Souza",
-            "avatar": "https://avatars.githubusercontent.com/u/27997372",
-            "address": "884 Rodovia Costa",
-            "email": "davi_souza87@live.com"
+            "firstname": "Bruna",
+            "lastname": "Nogueira",
+            "avatar": "https://avatars.githubusercontent.com/u/89655774",
+            "address": "7533 Alameda Benjamin",
+            "email": "bruna_nogueira@live.com",
+            "cetaceo": "Melon-headed Whale"
         },
         {
             "id": 18,
-            "firstname": "Yago",
-            "lastname": "Moraes",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/10.jpg",
-            "address": "511 Travessa Maria Eduarda",
-            "email": "yago.moraes@yahoo.com"
+            "firstname": "Liz",
+            "lastname": "Albuquerque",
+            "avatar": "https://avatars.githubusercontent.com/u/55895318",
+            "address": "85909 Rua Maria Helena",
+            "email": "liz.albuquerque@yahoo.com",
+            "cetaceo": "Long-Beaked Common Dolphin"
         },
         {
             "id": 19,
-            "firstname": "Maria Alice",
+            "firstname": "Vitória",
             "lastname": "Nogueira",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/52.jpg",
-            "address": "64570 Travessa Macedo",
-            "email": "mariaalice_nogueira@gmail.com"
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/84.jpg",
+            "address": "7139 Rodovia Albuquerque",
+            "email": "vitoria.nogueira35@yahoo.com",
+            "cetaceo": "Sperm Whale"
         },
         {
             "id": 20,
-            "firstname": "Maria",
-            "lastname": "Braga",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/24.jpg",
-            "address": "10373 Rodovia Saraiva",
-            "email": "maria_braga19@bol.com.br"
+            "firstname": "Pietro",
+            "lastname": "Moreira",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/86.jpg",
+            "address": "817 Marginal Laura",
+            "email": "pietro.moreira@live.com",
+            "cetaceo": "Short-Beaked Common Dolphin"
         },
         {
             "id": 21,
-            "firstname": "Henrique",
-            "lastname": "Moreira",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/57.jpg",
-            "address": "86506 Avenida Xavier",
-            "email": "henrique.moreira72@hotmail.com"
+            "firstname": "Liz",
+            "lastname": "Albuquerque",
+            "avatar": "https://avatars.githubusercontent.com/u/45891318",
+            "address": "224 Rua Pereira",
+            "email": "liz_albuquerque8@hotmail.com",
+            "cetaceo": "Chinese White Dolphin"
         },
         {
             "id": 22,
-            "firstname": "Lívia",
-            "lastname": "Santos",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/59.jpg",
-            "address": "429 Rua Rafael",
-            "email": "livia_santos@live.com"
+            "firstname": "Marcos",
+            "lastname": "Batista",
+            "avatar": "https://avatars.githubusercontent.com/u/39544849",
+            "address": "865 Avenida Santos",
+            "email": "marcos_batista91@yahoo.com",
+            "cetaceo": "White-Beaked Dolphin"
         },
         {
             "id": 23,
-            "firstname": "Hélio",
-            "lastname": "Moraes",
-            "avatar": "https://avatars.githubusercontent.com/u/82469991",
-            "address": "58400 Travessa Carvalho",
-            "email": "helio_moraes@live.com"
+            "firstname": "Janaína",
+            "lastname": "Xavier",
+            "avatar": "https://avatars.githubusercontent.com/u/23046300",
+            "address": "660 Marginal Samuel",
+            "email": "janaina_xavier@hotmail.com",
+            "cetaceo": "Pacific White-Sided Dolphin"
         },
         {
             "id": 24,
-            "firstname": "Samuel",
-            "lastname": "Costa",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/66.jpg",
-            "address": "7621 Alameda Saraiva",
-            "email": "samuel.costa@bol.com.br"
+            "firstname": "Frederico",
+            "lastname": "Reis",
+            "avatar": "https://avatars.githubusercontent.com/u/15915883",
+            "address": "6465 Rua Laura",
+            "email": "frederico_reis32@hotmail.com",
+            "cetaceo": "Sei Whale"
         },
         {
             "id": 25,
-            "firstname": "Eloá",
-            "lastname": "Moreira",
-            "avatar": "https://avatars.githubusercontent.com/u/48917105",
-            "address": "6934 Rodovia Laura",
-            "email": "eloa_moreira20@bol.com.br"
+            "firstname": "Roberto",
+            "lastname": "Reis",
+            "avatar": "https://avatars.githubusercontent.com/u/5875153",
+            "address": "95216 Marginal Valentina",
+            "email": "roberto.reis@bol.com.br",
+            "cetaceo": "Sei Whale"
         },
         {
             "id": 26,
-            "firstname": "João Pedro",
-            "lastname": "Santos",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/17.jpg",
-            "address": "821 Travessa Fábio",
-            "email": "joaopedro.santos@gmail.com"
+            "firstname": "Cecília",
+            "lastname": "Oliveira",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/84.jpg",
+            "address": "9695 Marginal Saraiva",
+            "email": "cecilia_oliveira@yahoo.com",
+            "cetaceo": "Clymene Dolphin"
         },
         {
             "id": 27,
-            "firstname": "Murilo",
-            "lastname": "Reis",
-            "avatar": "https://avatars.githubusercontent.com/u/3617624",
-            "address": "629 Rodovia Melo",
-            "email": "murilo_reis@bol.com.br"
+            "firstname": "João Lucas",
+            "lastname": "Silva",
+            "avatar": "https://avatars.githubusercontent.com/u/52688467",
+            "address": "43282 Avenida Beatriz",
+            "email": "joaolucas_silva@live.com",
+            "cetaceo": "Arnoux's Beaked Whale"
         },
         {
             "id": 28,
             "firstname": "Karla",
-            "lastname": "Braga",
-            "avatar": "https://avatars.githubusercontent.com/u/91373929",
-            "address": "23563 Avenida Franco",
-            "email": "karla_braga@yahoo.com"
+            "lastname": "Costa",
+            "avatar": "https://avatars.githubusercontent.com/u/66723196",
+            "address": "300 Rua Danilo",
+            "email": "karla_costa95@hotmail.com",
+            "cetaceo": "Killer Whale (Orca)"
         },
         {
             "id": 29,
-            "firstname": "Beatriz",
-            "lastname": "Pereira",
-            "avatar": "https://avatars.githubusercontent.com/u/28541652",
-            "address": "359 Avenida Macedo",
-            "email": "beatriz.pereira@live.com"
+            "firstname": "Enzo",
+            "lastname": "Batista",
+            "avatar": "https://avatars.githubusercontent.com/u/51179274",
+            "address": "612 Travessa Pereira",
+            "email": "enzo_batista0@gmail.com",
+            "cetaceo": "Indo-Pacific Bottlenose Dolphin"
         },
         {
             "id": 30,
-            "firstname": "Matheus",
-            "lastname": "Reis",
-            "avatar": "https://avatars.githubusercontent.com/u/16397718",
-            "address": "834 Rua Vitória",
-            "email": "matheus_reis83@live.com"
+            "firstname": "Frederico",
+            "lastname": "Macedo",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/82.jpg",
+            "address": "3626 Marginal Xavier",
+            "email": "frederico.macedo@yahoo.com",
+            "cetaceo": "Atlantic Humpbacked Dolphin"
         },
         {
             "id": 31,
-            "firstname": "Víctor",
-            "lastname": "Nogueira",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/39.jpg",
-            "address": "2956 Rodovia Moreira",
-            "email": "victor.nogueira@bol.com.br"
+            "firstname": "Isis",
+            "lastname": "Moreira",
+            "avatar": "https://avatars.githubusercontent.com/u/7511788",
+            "address": "30789 Marginal Oliveira",
+            "email": "isis.moreira@hotmail.com",
+            "cetaceo": "Commerson’s Dolphin"
         },
         {
             "id": 32,
-            "firstname": "Pedro Henrique",
-            "lastname": "Melo",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/39.jpg",
-            "address": "11606 Marginal Oliveira",
-            "email": "pedrohenrique.melo2@live.com"
+            "firstname": "Isadora",
+            "lastname": "Oliveira",
+            "avatar": "https://avatars.githubusercontent.com/u/42742926",
+            "address": "4253 Travessa Moreira",
+            "email": "isadora_oliveira@bol.com.br",
+            "cetaceo": "Fraser’s Dolphin"
         },
         {
             "id": 33,
-            "firstname": "Mércia",
-            "lastname": "Braga",
-            "avatar": "https://avatars.githubusercontent.com/u/94604336",
-            "address": "89436 Marginal Elisa",
-            "email": "mercia_braga47@yahoo.com"
+            "firstname": "Júlia",
+            "lastname": "Souza",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/25.jpg",
+            "address": "58128 Rua Maria Alice",
+            "email": "julia.souza69@gmail.com",
+            "cetaceo": "Atlantic Humpbacked Dolphin"
         },
         {
             "id": 34,
-            "firstname": "Esther",
+            "firstname": "Vitor",
             "lastname": "Franco",
-            "avatar": "https://avatars.githubusercontent.com/u/74372790",
-            "address": "1155 Marginal Santos",
-            "email": "esther.franco92@live.com"
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/81.jpg",
+            "address": "78300 Marginal Alessandro",
+            "email": "vitor.franco@live.com",
+            "cetaceo": "Hourglass Dolphin"
         },
         {
             "id": 35,
-            "firstname": "Alessandra",
-            "lastname": "Oliveira",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/23.jpg",
-            "address": "6297 Rodovia João",
-            "email": "alessandra_oliveira@bol.com.br"
+            "firstname": "Vitória",
+            "lastname": "Macedo",
+            "avatar": "https://avatars.githubusercontent.com/u/89020227",
+            "address": "7256 Avenida Franco",
+            "email": "vitoria.macedo91@bol.com.br",
+            "cetaceo": "Southern Bottlenose Whale"
         },
         {
             "id": 36,
-            "firstname": "Sarah",
-            "lastname": "Barros",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/68.jpg",
-            "address": "5882 Avenida Warley",
-            "email": "sarah.barros@live.com"
+            "firstname": "Júlio",
+            "lastname": "Carvalho",
+            "avatar": "https://avatars.githubusercontent.com/u/61305450",
+            "address": "5726 Alameda Víctor",
+            "email": "julio.carvalho22@yahoo.com",
+            "cetaceo": "Heaviside’s Dolphin"
         },
         {
             "id": 37,
-            "firstname": "Silas",
-            "lastname": "Franco",
-            "avatar": "https://avatars.githubusercontent.com/u/40170548",
-            "address": "5691 Alameda Macedo",
-            "email": "silas_franco10@live.com"
+            "firstname": "Manuela",
+            "lastname": "Costa",
+            "avatar": "https://avatars.githubusercontent.com/u/93319989",
+            "address": "87366 Avenida Franco",
+            "email": "manuela_costa30@yahoo.com",
+            "cetaceo": "Atlantic Spotted Dolphin"
         },
         {
             "id": 38,
-            "firstname": "Maria Eduarda",
-            "lastname": "Costa",
-            "avatar": "https://avatars.githubusercontent.com/u/56463070",
-            "address": "34682 Rua Saraiva",
-            "email": "mariaeduarda_costa@hotmail.com"
+            "firstname": "Fábio",
+            "lastname": "Carvalho",
+            "avatar": "https://avatars.githubusercontent.com/u/96870770",
+            "address": "6089 Alameda Pereira",
+            "email": "fabio.carvalho@yahoo.com",
+            "cetaceo": "Costero"
         },
         {
             "id": 39,
-            "firstname": "Lavínia",
-            "lastname": "Reis",
-            "avatar": "https://avatars.githubusercontent.com/u/11022066",
-            "address": "585 Marginal Costa",
-            "email": "lavinia.reis87@live.com"
+            "firstname": "Antônio",
+            "lastname": "Saraiva",
+            "avatar": "https://avatars.githubusercontent.com/u/30508097",
+            "address": "4639 Rodovia Liz",
+            "email": "antonio.saraiva@bol.com.br",
+            "cetaceo": "Blue Whale"
         },
         {
             "id": 40,
-            "firstname": "Antonella",
-            "lastname": "Xavier",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/64.jpg",
-            "address": "912 Alameda Carvalho",
-            "email": "antonella.xavier98@bol.com.br"
+            "firstname": "Roberta",
+            "lastname": "Nogueira",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/81.jpg",
+            "address": "7088 Rua Sarah",
+            "email": "roberta.nogueira@gmail.com",
+            "cetaceo": "Rough-Toothed Dolphin"
         },
         {
             "id": 41,
-            "firstname": "Pietro",
-            "lastname": "Moraes",
-            "avatar": "https://avatars.githubusercontent.com/u/92472935",
-            "address": "27052 Rodovia César",
-            "email": "pietro.moraes68@live.com"
+            "firstname": "Fábio",
+            "lastname": "Barros",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/34.jpg",
+            "address": "815 Marginal Xavier",
+            "email": "fabio_barros@gmail.com",
+            "cetaceo": "Blue Whale"
         },
         {
             "id": 42,
-            "firstname": "Maria Cecília",
+            "firstname": "Lorenzo",
             "lastname": "Costa",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/46.jpg",
-            "address": "859 Rodovia Costa",
-            "email": "mariacecilia.costa@live.com"
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/35.jpg",
+            "address": "78770 Rodovia João Pedro",
+            "email": "lorenzo_costa@gmail.com",
+            "cetaceo": "Heaviside’s Dolphin"
         },
         {
             "id": 43,
-            "firstname": "Murilo",
-            "lastname": "Costa",
-            "avatar": "https://avatars.githubusercontent.com/u/87707737",
-            "address": "696 Rua Guilherme",
-            "email": "murilo.costa90@yahoo.com"
+            "firstname": "Isis",
+            "lastname": "Barros",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/30.jpg",
+            "address": "6933 Marginal Silva",
+            "email": "isis.barros17@gmail.com",
+            "cetaceo": "Atlantic Humpbacked Dolphin"
         },
         {
             "id": 44,
-            "firstname": "Yasmin",
-            "lastname": "Oliveira",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/35.jpg",
-            "address": "45261 Avenida Warley",
-            "email": "yasmin.oliveira76@gmail.com"
+            "firstname": "Gúbio",
+            "lastname": "Braga",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/97.jpg",
+            "address": "271 Marginal Oliveira",
+            "email": "gubio.braga64@live.com",
+            "cetaceo": "Costero"
         },
         {
             "id": 45,
-            "firstname": "Lívia",
-            "lastname": "Melo",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/41.jpg",
-            "address": "8000 Marginal Santos",
-            "email": "livia.melo@yahoo.com"
+            "firstname": "Suélen",
+            "lastname": "Nogueira",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/50.jpg",
+            "address": "5392 Avenida Lorenzo",
+            "email": "suelen_nogueira@hotmail.com",
+            "cetaceo": "False Killer Whale"
         },
         {
             "id": 46,
-            "firstname": "Lívia",
-            "lastname": "Macedo",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/40.jpg",
-            "address": "15674 Avenida Moreira",
-            "email": "livia.macedo45@yahoo.com"
+            "firstname": "Fabiano",
+            "lastname": "Batista",
+            "avatar": "https://avatars.githubusercontent.com/u/96114964",
+            "address": "176 Rodovia Melo",
+            "email": "fabiano.batista@bol.com.br",
+            "cetaceo": "Humpback whale"
         },
         {
             "id": 47,
-            "firstname": "Karla",
-            "lastname": "Barros",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/91.jpg",
-            "address": "835 Travessa Braga",
-            "email": "karla.barros@gmail.com"
+            "firstname": "Sarah",
+            "lastname": "Souza",
+            "avatar": "https://avatars.githubusercontent.com/u/62199576",
+            "address": "740 Marginal Calebe",
+            "email": "sarah.souza30@yahoo.com",
+            "cetaceo": "Indo-Pacific Hump-backed Dolphin"
         },
         {
             "id": 48,
-            "firstname": "Maitê",
-            "lastname": "Macedo",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/12.jpg",
-            "address": "321 Alameda Ofélia",
-            "email": "maite_macedo42@bol.com.br"
+            "firstname": "Aline",
+            "lastname": "Silva",
+            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/12.jpg",
+            "address": "112 Rodovia Melo",
+            "email": "aline_silva@gmail.com",
+            "cetaceo": "Peale’s Dolphin"
         },
         {
             "id": 49,
-            "firstname": "Lorraine",
-            "lastname": "Martins",
-            "avatar": "https://avatars.githubusercontent.com/u/21101200",
-            "address": "5257 Marginal Núbia",
-            "email": "lorraine_martins84@hotmail.com"
+            "firstname": "Luiza",
+            "lastname": "Franco",
+            "avatar": "https://avatars.githubusercontent.com/u/92319730",
+            "address": "16748 Rodovia Barros",
+            "email": "luiza.franco79@bol.com.br",
+            "cetaceo": "Indo-Pacific Bottlenose Dolphin"
         },
         {
             "id": 50,
-            "firstname": "Warley",
-            "lastname": "Braga",
-            "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/80.jpg",
-            "address": "6608 Rua Carvalho",
-            "email": "warley.braga@hotmail.com"
+            "firstname": "Yango",
+            "lastname": "Costa",
+            "avatar": "https://avatars.githubusercontent.com/u/34395404",
+            "address": "6566 Marginal Barros",
+            "email": "yango_costa9@yahoo.com",
+            "cetaceo": "Guiana Dolphin"
         }
     ]
 }

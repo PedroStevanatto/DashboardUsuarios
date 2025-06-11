@@ -32,6 +32,7 @@ function App() {
           <p><strong>Nome:</strong> {select.firstname} {select.lastname}</p>
           <p><strong>Email:</strong> {select.email}</p>
           <p><strong>Endereço:</strong> {select.address}</p>
+          <p><strong>Cetáceo preferido:</strong> {select.cetaceo}</p>
           <button onClick={deselecionar}>Voltar</button>
         </div>
       </div>
