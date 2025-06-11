@@ -1,6 +1,6 @@
-import { faker } from '@faker-js/faker/locale/pt_BR';
-import lodash from 'lodash';
-import fs from 'fs';
+import { faker } from '@faker-js/faker/locale/pt_BR'; //faz dados falsos
+import lodash from 'lodash'; //ajuda a gerar arrays, neste caso, de 50 pessoas
+import fs from 'fs'; //manipula arquivos, cria e salva as coisas do db
 
 const peoples = lodash.times(50, function(n){
     const firstName = faker.person.firstName();

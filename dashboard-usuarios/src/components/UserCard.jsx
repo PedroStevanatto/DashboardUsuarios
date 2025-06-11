@@ -1,7 +1,7 @@
 // src/components/UserCard.jsx
 import './UserCard.css';
 
-function UserCard({ user }) {
+function UserCard({ user }) { // Componente para exibir os detalhes de um usuario
     return (
         <div className='user-card'>
             <img src={user.avatar} alt={`${user.firstname} avatar`} />
